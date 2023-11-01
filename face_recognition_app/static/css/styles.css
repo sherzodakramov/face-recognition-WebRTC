@@ -1,0 +1,14 @@
+/* face_recognition_app/static/css/styles.css */
+
+#video-container {
+    width: 100%;
+    height: auto;
+}
+
+#results-container {
+    margin-top: 20px;
+}
+
+#results-list {
+    list-style-type: none;
+}
